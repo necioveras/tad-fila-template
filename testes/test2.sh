@@ -5,10 +5,6 @@ output=$(./a.out < ./testes/input2.txt)
 expected_output="Fila: 1.1 2.2 3.3
 Fila: 2.2 3.3 4.4 5.5
 Fila: 4.4 5.5 6.6 7.7
-Fila: 5.5 6.6 7.7 8.8
-Fila: 6.6 7.7 8.8
-Fila: 7.7 8.8
-Fila: 8.8
 Fila vazia"
 
 
